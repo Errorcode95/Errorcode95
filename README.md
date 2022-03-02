@@ -1,1 +1,1 @@
-<h2 style="color:rgba(140,30,255,0.3);">Errorcode95</h2>
+<img align='center' src="https://github.com/Errorcode95/Errorcode95/blob/main/banner.png" width="800">
